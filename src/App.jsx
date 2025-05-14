@@ -306,7 +306,7 @@ function App() {
       </HeadlineBlock>
       <VideoContainer>
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=qzOaGgN7UBw"
+          url="https://youtube.com/shorts/JX8Uh2jpbxM?feature=share"
           width="100%"
           height="100%"
           style={{ position: 'absolute', top: 0, left: 0 }}
